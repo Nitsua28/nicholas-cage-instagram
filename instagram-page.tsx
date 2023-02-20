@@ -1,0 +1,5 @@
+export function InstagramPage(){
+    return(
+        <></>
+    )
+}
